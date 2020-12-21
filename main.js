@@ -104,6 +104,43 @@
 //     num++;
 // }
 
+// let str = "text";
+// console.log(str.toLowerCase());
+// console.log(str.toUpperCase());
+// console.log(str[1]);
+// console.log(str.substring(1,2));
+// console.log(str.length);
+// console.log(str.substr(1,2));
+// console.log(str.split(1,2));
 
 
 
+
+
+// function first(){
+//     setTimeout(function(){
+//         console.log(1);
+//     }, 500);
+// }
+
+// function second(){
+//     console.log(2);
+
+// }
+
+
+
+
+// function LearnJS(lang, callback){
+//     console.log(`Я учу: ${lang}`);
+//     callback;
+// }
+
+// function done(){
+//     console.log('Я прошел этот урок');
+// }
+
+
+// LearnJS('JavaScript', function(){
+//     console.log();
+// });
